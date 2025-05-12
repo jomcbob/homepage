@@ -16,6 +16,7 @@ You can see this project on [GitHub Pages here](https://jomcbob.github.io/homepa
 - Profile section with a brief introduction
 - Showcase of projects with links to GitHub repositories and live demos
 - Some CSS animations
+- imported fonts
 
 ## Project Link
 
@@ -23,4 +24,4 @@ This project was completed as part of the following lesson from the Odin Project
 
 ## Setup
 
-To view this project, simply open the `index.html` file in your web browser.
+To view this project, fork this repo then simply open the `index.html` file in your web browser.
