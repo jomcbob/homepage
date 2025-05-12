@@ -17,12 +17,6 @@ You can see this project on [GitHub Pages here](https://jomcbob.github.io/homepa
 - Showcase of projects with links to GitHub repositories and live demos
 - Some CSS animations
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- Font Awesome for icons
-
 ## Project Link
 
 This project was completed as part of the following lesson from the Odin Project: [Advanced HTML and CSS Homepage](https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/advanced-html-and-css).
