@@ -8,7 +8,7 @@ The goal of this project was to build a responsive homepage that adapts to diffe
 
 ## Preview
 
-You can see this project on [GitHub Pages here](https://jomcbob.github.io/homepage).
+You can see this project [Here](https://jomcbob.github.io/homepage).
 
 ## Features
 
