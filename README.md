@@ -17,6 +17,7 @@ You can see this project on [GitHub Pages here](https://jomcbob.github.io/homepa
 - Showcase of projects with links to GitHub repositories and live demos
 - Some CSS animations
 - imported fonts
+- two themes (light & dark)
 
 ## Project Link
 
