@@ -18,6 +18,9 @@
   font-size: 15px;
   line-height: 1.5;
   font-family: great_vibesregular;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
 
 h1  {
@@ -29,6 +32,7 @@ h3  {
 }
 
 body {
+  padding: 0;
   --background_color: white;
   --text_color: black;
   --accent_color: lightblue;
